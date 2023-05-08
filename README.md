@@ -64,5 +64,4 @@
 - Sklearn
 - Matplotlib.pyplot
 - Dash
-- Requests
 - SQLite3
